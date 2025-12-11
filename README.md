@@ -1,6 +1,6 @@
 ## 📊 Dashboard Responsive
 Dashboard berbasis <strong>React Native</strong> yang mendukung tampilan 
-<strong>Mobile, Tablet, dan Large Tablet</strong> dengan konsep 
+<strong>Mobile, Tablet, dan Dekstop</strong> dengan konsep 
 <strong>Responsive dan Orientation-Aware Layout</strong>. 
 Project ini dibuat sebagai tugas mata kuliah Pemrograman Perangkat Mobile.
 
