@@ -63,7 +63,7 @@ npx expo start
 
 ---
 
-## 🎯 Tujuan Pengembangan
+## 🎯 Tujuan
 
 Project ini bertujuan untuk:
 
@@ -76,7 +76,9 @@ Project ini bertujuan untuk:
 ## 👤 Author
 
 Nama: Salwa Aprilia Santi
+
 NIM: 20230040141
+
 Kelas: TI23F
 
 ---
